@@ -1,0 +1,1 @@
+{"mappings":"ACEA","sources":["index.cf5aa741.css","src/style.css"],"sourcesContent":["h1 {\n  margin-top: 3px;\n  font-size: 16px;\n  font-weight: normal;\n}\n/*# sourceMappingURL=index.cf5aa741.css.map */\n","/* styles go here */\n\nh1 {\n  font-size: 16px;\n  font-weight: normal;\n  margin-top: 3px;\n}\n"],"names":[],"version":3,"file":"index.cf5aa741.css.map"}
